@@ -7,11 +7,9 @@ body{
     width: 100vw;
     height: 100vh;
     margin: 0;
-    
-}
+    }
 .card{
-
-   display: flex;
+    display: flex;
     flex-direction: column;
     margin: 2rem auto;
     border-radius: 10px;
@@ -20,16 +18,14 @@ body{
     background-color: rgb(255, 255, 255);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
-
- .img-section img{
+.img-section img{
     display: block;
     width: 100%;
 }
 .card-info{
     padding: 1.5rem;
     text-align: left;
-    
-}
+    }
 
     p ,h6{
         font-family:"Montserrat" ;
